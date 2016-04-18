@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/DFULibrary-Swift.h</key>
 		<data>
-		bsfqa29XEFP3OaBPJ0TxmbGbjfg=
+		ef/gDntMBkayygxvk2u6FrPzQXw=
 		</data>
 		<key>Headers/DFULibrary.h</key>
 		<data>
@@ -14,67 +14,108 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		c+XiYeZnIyGC0tQBPBDsyBBYeyk=
+		ttJ5eucSCSRuh+7E0HM9WCbPDXc=
 		</data>
 		<key>Modules/DFULibrary.swiftmodule/arm.swiftdoc</key>
 		<data>
-		V8f6qQMaRGfxfnveR/vDO3TB8BQ=
+		wm4E/dDgV5KXsqlIZqj66scB4I0=
 		</data>
 		<key>Modules/DFULibrary.swiftmodule/arm.swiftmodule</key>
 		<data>
-		n4aL15GubU7iUtW3ncbD/FNqOaM=
+		oLeB4aSMKV3BaLY/MYhieyyjL0g=
 		</data>
 		<key>Modules/DFULibrary.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		6d58slEqvrhd56ZGRCjdwzWgSKM=
+		e5E1cLGS31kIKIqIWcCt0U2lgRY=
 		</data>
 		<key>Modules/DFULibrary.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		2REia5OoSh3Bk8lvDxuFrxHSXUo=
+		836q5eMsaDi23Hqc9xT4fhErMtM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Qlnuf51bA638ww3+rFmjJE5Pz/0=
-		</data>
-		<key>README</key>
-		<data>
-		k3h8JrNmrbyZb4C+U6Oxd1F5+zA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/DFULibrary-Swift.h</key>
-		<data>
-		bsfqa29XEFP3OaBPJ0TxmbGbjfg=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			ef/gDntMBkayygxvk2u6FrPzQXw=
+			</data>
+			<key>hash2</key>
+			<data>
+			FKROn3KLqpXTTauxjlg5OB8H7C0CK6onYXy9h0OiOII=
+			</data>
+		</dict>
 		<key>Headers/DFULibrary.h</key>
-		<data>
-		QpWk9xDQltw/ThWAbc7m1MNII9c=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			QpWk9xDQltw/ThWAbc7m1MNII9c=
+			</data>
+			<key>hash2</key>
+			<data>
+			M32LeYBQ75tFzbTbxyoj+yzCT83c47krkFatdeowEyk=
+			</data>
+		</dict>
 		<key>Modules/DFULibrary.swiftmodule/arm.swiftdoc</key>
-		<data>
-		V8f6qQMaRGfxfnveR/vDO3TB8BQ=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			wm4E/dDgV5KXsqlIZqj66scB4I0=
+			</data>
+			<key>hash2</key>
+			<data>
+			w6XezUtAHCsWBiApGn+wbQhkfBp387DJXiCrBCGYY+U=
+			</data>
+		</dict>
 		<key>Modules/DFULibrary.swiftmodule/arm.swiftmodule</key>
-		<data>
-		n4aL15GubU7iUtW3ncbD/FNqOaM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			oLeB4aSMKV3BaLY/MYhieyyjL0g=
+			</data>
+			<key>hash2</key>
+			<data>
+			d/OtCiOf9tcG2ltZ2nN/7lKLTPTZSpoS7nNneXcszHA=
+			</data>
+		</dict>
 		<key>Modules/DFULibrary.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		6d58slEqvrhd56ZGRCjdwzWgSKM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			e5E1cLGS31kIKIqIWcCt0U2lgRY=
+			</data>
+			<key>hash2</key>
+			<data>
+			zFLsZRvtVsI2TEBe2Duml/Xf+Yr6OkD3bnh7q+G0tB0=
+			</data>
+		</dict>
 		<key>Modules/DFULibrary.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		2REia5OoSh3Bk8lvDxuFrxHSXUo=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			836q5eMsaDi23Hqc9xT4fhErMtM=
+			</data>
+			<key>hash2</key>
+			<data>
+			uryBwZxKsag5c8IcFNcsMLz8PpX433/xKUTlNViENnc=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
-		<data>
-		Qlnuf51bA638ww3+rFmjJE5Pz/0=
-		</data>
-		<key>README</key>
-		<data>
-		k3h8JrNmrbyZb4C+U6Oxd1F5+zA=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qlnuf51bA638ww3+rFmjJE5Pz/0=
+			</data>
+			<key>hash2</key>
+			<data>
+			uu2ZkD85qFjFAsXVtmUDfdDn38M4PS/VRr3IsX5KgIk=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
